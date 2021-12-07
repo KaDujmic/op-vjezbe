@@ -1,10 +1,3 @@
-#include "header.h"
-// komentar dole se odnosi na ovaj dio ispod->
-//#include "header.cpp"
-#include "zadatak2.cpp"
-#include "zadatak3.cpp"
-#include "zadatak4.cpp"
-//Ode san dodava cpp file jer mi iz nekog razloga u vs code nebi compile-a sve cpp fileove nego samo main
 #include <iostream>
 #include <iomanip>
 
